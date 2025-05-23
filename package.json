@@ -1,0 +1,12 @@
+{
+  "name": "platzi-curso-closures-scope",
+  "version": "1.0.0",
+  "description": "Repo created to follow the lessons of Platzi course: \"Curso de Closures y Scopes en Javascript\" Link: https://platzi.com/cursos/javascript-closures-scope/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
